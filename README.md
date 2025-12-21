@@ -1,12 +1,3 @@
-<p align="center">
-  <img 
-    src="https://avatars.githubusercontent.com/heetpatel1410"
-    alt="Heet Patel"
-    width="180"
-    height="180"
-    style="border-radius: 50%; object-fit: cover;"
-  />
-</p>
 <!-- profile section ^ -->
 
 <h1 align="center">Heet Patel</h1>
