@@ -1,12 +1,24 @@
 <p align="center">
-  <img 
-    src="https://avatars.githubusercontent.com/heetpatel1410"
-    alt="Heet Patel"
-    width="180"
-    height="180"
-    style="border-radius:50%; object-fit:cover; border:3px solid #4F46E5;"
-  />
+  <div style="
+    width: 190px;
+    height: 190px;
+    padding: 5px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #4F46E5, #06B6D4, #22C55E);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  ">
+    <img 
+      src="https://avatars.githubusercontent.com/heetpatel1410"
+      alt="Heet Patel"
+      width="180"
+      height="180"
+      style="border-radius:50%; object-fit:cover; background:#fff;"
+    />
+  </div>
 </p>
+<!-- profile section ^ -->
 
 <h1 align="center">Heet Patel</h1>
 <!-- Social Badges -->
