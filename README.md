@@ -1,3 +1,14 @@
+<p align="center">
+  <img 
+    src="https://avatars.githubusercontent.com/heetpatel1410" 
+    alt="Heet Patel"
+    width="180"
+    style="border-radius: 50%;"
+  />
+</p>
+
+<h1 align="center">Heet Patel</h1>
+
 <h1 align="center">Heet Patel</h1>
 <!-- Social Badges -->
 <p align="center">
