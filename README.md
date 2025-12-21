@@ -1,11 +1,13 @@
 <p align="center">
   <img 
-    src="https://avatars.githubusercontent.com/heetpatel1410" 
+    src="https://avatars.githubusercontent.com/heetpatel1410"
     alt="Heet Patel"
     width="180"
-    style="border-radius: 50%;"
+    height="180"
+    style="border-radius: 50%; object-fit: cover;"
   />
 </p>
+
 
 <h1 align="center">Heet Patel</h1>
 <!-- Social Badges -->
