@@ -8,8 +8,6 @@
 </p>
 
 <h1 align="center">Heet Patel</h1>
-
-<h1 align="center">Heet Patel</h1>
 <!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/heet-patel-ece">
