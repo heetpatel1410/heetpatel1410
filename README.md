@@ -1,21 +1,34 @@
 <p align="center">
-  <svg width="200" height="200" viewBox="0 0 200 200">
+  <svg width="220" height="220" viewBox="0 0 220 220">
     <defs>
-      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#4F46E5"/>
-        <stop offset="50%" style="stop-color:#06B6D4"/>
-        <stop offset="100%" style="stop-color:#22C55E"/>
+      <!-- Gradient Ring -->
+      <linearGradient id="ringGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#4F46E5"/>
+        <stop offset="50%" stop-color="#06B6D4"/>
+        <stop offset="100%" stop-color="#22C55E"/>
       </linearGradient>
+
+      <!-- Circular Mask -->
+      <clipPath id="circleClip">
+        <circle cx="110" cy="110" r="85"/>
+      </clipPath>
     </defs>
-    <circle cx="100" cy="100" r="95" fill="url(#grad1)"/>
-    <image 
+
+    <!-- Gradient Ring Circle -->
+    <circle cx="110" cy="110" r="100" fill="url(#ringGradient)"/>
+
+    <!-- Profile Image -->
+    <image
       href="https://avatars.githubusercontent.com/heetpatel1410"
-      x="20" y="20"
-      width="160" height="160"
-      clip-path="circle(80px at 80px 80px)"
+      x="25"
+      y="25"
+      width="170"
+      height="170"
+      clip-path="url(#circleClip)"
     />
   </svg>
 </p>
+
 
 <!-- profile section ^ -->
 
