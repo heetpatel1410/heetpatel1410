@@ -1,23 +1,22 @@
 <p align="center">
-  <div style="
-    width: 190px;
-    height: 190px;
-    padding: 5px;
-    border-radius: 50%;
-    background: linear-gradient(135deg, #4F46E5, #06B6D4, #22C55E);
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-  ">
-    <img 
-      src="https://avatars.githubusercontent.com/heetpatel1410"
-      alt="Heet Patel"
-      width="180"
-      height="180"
-      style="border-radius:50%; object-fit:cover; background:#fff;"
+  <svg width="200" height="200" viewBox="0 0 200 200">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#4F46E5"/>
+        <stop offset="50%" style="stop-color:#06B6D4"/>
+        <stop offset="100%" style="stop-color:#22C55E"/>
+      </linearGradient>
+    </defs>
+    <circle cx="100" cy="100" r="95" fill="url(#grad1)"/>
+    <image 
+      href="https://avatars.githubusercontent.com/heetpatel1410"
+      x="20" y="20"
+      width="160" height="160"
+      clip-path="circle(80px at 80px 80px)"
     />
-  </div>
+  </svg>
 </p>
+
 <!-- profile section ^ -->
 
 <h1 align="center">Heet Patel</h1>
