@@ -1,5 +1,3 @@
-<img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/173440045?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
-<!-- profile section ^ -->
 
 <h1 align="center">Heet Patel</h1>
 <!-- Social Badges -->
